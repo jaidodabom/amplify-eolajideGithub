@@ -1,0 +1,17 @@
+{
+  "trigger": true,
+  "modules": [
+    "add-to-group"
+  ],
+  "parentResource": "eventappe3d5a917",
+  "functionName": "eventappe3d5a917PostConfirmation",
+  "resourceName": "eventappe3d5a917PostConfirmation",
+  "parentStack": "auth",
+  "triggerEnvs": [],
+  "triggerDir": "/usr/local/lib/node_modules/@aws-amplify/cli/node_modules/amplify-category-auth/provider-utils/awscloudformation/triggers/PostConfirmation",
+  "triggerTemplate": "PostConfirmation.json.ejs",
+  "roleName": "eventappe3d5a917PostConfirmation",
+  "skipEdit": true,
+  "GROUP": "admin",
+  "enableCors": false
+}
